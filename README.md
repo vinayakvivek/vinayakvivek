@@ -26,7 +26,7 @@
 ```
 
 - :rabbit2: Computer graphics enthusiast.
-  - I still haven't implemented PBRT tho
+  - 🔭 currently reading PBRT (Physically Based Rendering) and trying to understand the detailed implementation.
 - :octocat: Like you, I cannot bring myself to look at badly written code.
 - :gem: Good architecture and code <3.
 - :seedling: Favorite frameworks
